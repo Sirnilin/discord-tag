@@ -1,5 +1,4 @@
 from window import get_active_window_title, is_discord
-from _keyboard import on_press, press_shift_enter
 #from pynput import keyboard
 import keyboard
 import pyautogui
